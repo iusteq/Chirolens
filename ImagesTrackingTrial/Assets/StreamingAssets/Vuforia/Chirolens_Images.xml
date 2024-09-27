@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="waytocalvary_gentileschi" size="1.000000 0.788571" />
+    <ImageTarget name="1670_jansteen_deceivedgroom" size="1.000000 0.832067" />
+    <ImageTarget name="1622-1623_lanfranco_jamesandanthony" size="1.000000 1.765673" />
+    <ImageTarget name="1621_vouet_conversion_mary_magdalene" size="1.000000 0.779070" />
+    <ImageTarget name="1617_rubens_stfrancisxavier1" size="1.000000 1.347104" />
+    <ImageTarget name="1601_caravaggio_rosary" size="1.000000 1.477833" />
+    <ImageTarget name="1548_hemessen_matthew" size="1.000000 0.824334" />
+    <ImageTarget name="1539_hemessen_matthew" size="1.000000 0.776455" />
+    <ImageTarget name="1520_garofalo_resurrection" size="1.000000 1.658537" />
+    <ImageTarget name="1505_raphael_meadow2" size="1.000000 1.280410" />
+    <ImageTarget name="1493_perugino_maruwithsaints" size="1.000000 1.071168" />
+    <ImageTarget name="fra-filippo-lippi_verkuendigung-mariae" size="1.000000 1.104566" />
+    <ImageTarget name="raphael-the-transfiguration" size="1.000000 1.492537" />
+    <ImageTarget name="RaphaelMeadow" size="1.000000 1.250000" />
+  </Tracking>
+</QCARConfig>
